@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Fraunces", Georgia, serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+  
+  --color-brand-bg: #FFF8F0;
+  --color-brand-text: #2B2B2B;
+  --color-brand-terracotta: #E07A5F;
+  --color-brand-terracotta-dark: #C9644A;
+  --color-brand-sage: #A8C3B9;
+  --color-brand-sage-dark: #8FAEA2;
+  --color-brand-cream: #FDF3E7;
+}
+
+/* Smooth scrolling and focus overrides for improved UX */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-brand-bg);
+  color: var(--color-brand-text);
+  font-family: var(--font-sans);
+}

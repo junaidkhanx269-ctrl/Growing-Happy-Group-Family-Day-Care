@@ -1,0 +1,6 @@
+{
+  "name": "Growing Happy Group Family Day Care",
+  "description": "Official website for Growing Happy Group Family Day Care in New York, NY. A licensed, safe, and loving home-based environment for infants to age 5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
